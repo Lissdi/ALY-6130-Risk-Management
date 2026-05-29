@@ -10,7 +10,17 @@ This requires immediate Enterprise Risk Management (ERM) attention to ensure suc
 
 ** Risk Identification
 
-....
+Category	 Key Risk Indicator (KRI)   	Threshold / Signal
+People	   Post-acquisition employee turnover rate (Vantage team)	> 15% within 6 months
+People	   Integration team workload / burnout rate	> 85% sustained for 30+ days
+Processes	 Integration milestone delay rate	> 20% of milestones delayed
+Technology	AI/LLM integration error rate	> 5% query or transaction failures
+Technology	Platform latency increase post-integration	> 15% above baseline
+Information Security	Cybersecurity incident frequency during integration	Any confirmed breach or high-severity alert
+Compliance	Number of high-severity regulatory/compliance findings	Any critical finding
+Financial	  Acquisition integration cost overrun	> 10% of budgeted amount
+Market	    Merchant satisfaction score decline	> 5% drop within 3 months
+
 
 ** 
 
